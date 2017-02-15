@@ -4,11 +4,9 @@
 
 > Bienvenido.
 
+En ésta página se podrán encontrar diferentes enlaces y recursos.
 
 
-```markdown
-Esta es la página de Joaquin Sanchiz. Podremos encontrar enlaces a prácticas y a diferentes recursos.
-```
 
 
 
